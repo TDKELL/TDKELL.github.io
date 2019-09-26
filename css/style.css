@@ -369,7 +369,7 @@ img {
 	max-width: none;
 	min-height: 250px; /* the height of the photo background orrigionally 250 */
 	overflow: hidden;
-	height: 300px; /*to match image */
+	height: 280px; /*to match image */
 	padding: 0;
 	width: 100%;
 }
@@ -380,7 +380,7 @@ img {
 	padding: 0;
 	position: absolute;
 	width: 1014px;
-	max-width: 1000px;    /*added to stop the image squishing*/
+	min-width: 1000px;    /*added to stop the image squishing*/
 }
 #body div.footer {
 	margin: 0 auto;
