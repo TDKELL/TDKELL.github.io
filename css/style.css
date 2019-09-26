@@ -380,7 +380,7 @@ img {
 	padding: 0;
 	position: absolute;
 	width: 1014px;
-	overflow: hidden;    /*added to stop the image squishing*/
+	max-width: 1000px;    /*added to stop the image squishing*/
 }
 #body div.footer {
 	margin: 0 auto;
