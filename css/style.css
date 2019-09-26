@@ -367,7 +367,7 @@ img {
 	background-color: #ebebed;
 	margin: 0;
 	max-width: none;
-	min-height: 300px; /* the height of the photo background orrigionally 250 */
+	min-height: 250px; /* the height of the photo background orrigionally 250 */
 	overflow: hidden;
 	height: 300px; /*to match image */
 	padding: 0;
