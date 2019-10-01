@@ -1060,16 +1060,16 @@ img {
 	display: block;
 	float: left;
 	height: 30px;
-	margin: 0 15px;
+	margin: 0 30px;
 	padding: 0;
 	text-indent: -99999px;
 	width: 30px;
 }
 #footer div .connect a.facebook {
-	background-position: 0 -32px;
+	background-position: 0 0;
 }
 #footer div .connect a.youtube {
-	background-position: 0 -64px;
+	background-position: 0 -32px;
 }
 #footer div .connect a.pinterest {
 	background-position: 0 -64px;
