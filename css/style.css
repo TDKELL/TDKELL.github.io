@@ -1060,7 +1060,7 @@ img {
 	display: block;
 	float: left;
 	height: 30px;
-	margin: 0 60px; /* gap between each logo */
+	margin: 0 15px; /* gap between each logo */
 	padding: 15px;
 	text-indent: -99999px;
 	width: 30px;
