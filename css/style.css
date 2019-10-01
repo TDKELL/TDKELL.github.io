@@ -1060,8 +1060,8 @@ img {
 	display: block;
 	float: left;
 	height: 30px;
-	margin: 0 30px;
-	padding: 0;
+	margin: 0 15px;
+	padding: 15px;
 	text-indent: -99999px;
 	width: 30px;
 }
