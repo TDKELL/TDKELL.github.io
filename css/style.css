@@ -1066,10 +1066,10 @@ img {
 	width: 30px;
 }
 #footer div .connect a.facebook {
-	background-position: 0 0;
+	background-position: 0 -32px;
 }
 #footer div .connect a.youtube {
-	background-position: 0 -32px;
+	background-position: 0 -64px;
 }
 #footer div .connect a.pinterest {
 	background-position: 0 -64px;
