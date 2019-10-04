@@ -402,15 +402,15 @@ img {
 	width: 560px;
 }
 #body div.footer div.sidebar h1 {
-	display: block;
+	display: block;				/* this is for the title of the gray box on the right */
 	line-height: 48px;
 	margin: 0 auto;
-	padding: 0 0 50px;
+	padding: 0 0 20px;
 	text-align: center;
 	width: 193px;
 }
 #body div.footer div.sidebar p {
-	display: block;
+	display: block;		/* this is for the text on the right in the gray box */
 	line-height: 20px;
 	margin: 0 auto;
 	text-align: center;
