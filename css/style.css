@@ -411,10 +411,10 @@ img {
 }
 #body div.footer div.sidebar p {
 	display: block;
-	line-height: 48px;
+	line-height: 20px;
 	margin: 0 auto;
 	text-align: center;
-	width: 169px;
+	width: fit-content;
 }
 #body div.footer div h1 {
 	color: #397787;
