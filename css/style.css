@@ -48,7 +48,7 @@ img {
 	src: url('../fonts/lato-bold-webfont.woff') format('woff'), url('../fonts/lato-bold-webfont.ttf') format('truetype'), url('../fonts/lato-bold-webfont.svg') format('svg');
 }
 
-/*----------------------------------------Nav-Bar---------------------------------------*/
+/*----------------------------------------Nav-Bar-[NOT IN USE]--------------------------------------*/
 .navigation {
   overflow: hidden;
   background-color: #333;
