@@ -152,7 +152,7 @@ img {
 	width: auto;
 }
 #header div ul li a {
-	color: #7a6666;			/* text in menue header - orrigionally #7a6666 */
+	color: #397787;			/* text in menue header - orrigionally #7a6666 */
 	font-family: lato-regular-webfont;
 	font-size: 15px;
 	font-weight: normal;
@@ -166,7 +166,7 @@ img {
 	color: #cb3362;
 }
 #header div ul li a:hover, #header div ul li.menu:hover ul li a {
-	color: #c8c10d;
+	color: #397787;
 }
 #header div ul li ul li a {
 	color: #cb3362;
