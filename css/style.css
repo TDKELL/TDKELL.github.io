@@ -1084,6 +1084,12 @@ img {
 #body div.footer .section p a:hover {
 }
 /*----------------------------------------footer-styles---------------------------------------*/
+#footerheader {
+	background-color: #397787;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
 #footer {
 	background-color: #397787;
 	margin: 0;
