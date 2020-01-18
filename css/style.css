@@ -228,6 +228,7 @@ img {
 	padding: 0;
 	position: absolute;
 	width: 1126px;
+	min-width: 1000px;    /* THIS STOPS THE HOME HEADER FROM STRETCHING */
 }
 #body.home div.header div {
 	margin: 0 auto;
@@ -432,7 +433,7 @@ img {
 	overflow: hidden;
 	height: 280px; /*to match image */
 	padding: 0;
-	width: 100%;
+	width: 100%;       /* THIS IS THE BACKGROUD IMAGE or HEADER IMAGE */
 }
 #body div.body img {
 	display: block;
