@@ -218,7 +218,7 @@ img {
 	margin: 0;
 	max-width: none;
 	overflow: hidden;
-	height: 357px; /* ADDED TO MAKE THE SECTION FIT THE IMAGE */
+	height: 410px; /* ADDED TO MAKE THE SECTION FIT THE IMAGE */
 	padding: 0;
 	width: 100%;
 }
