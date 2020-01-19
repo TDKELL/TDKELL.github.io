@@ -363,7 +363,7 @@ img {
 	width: 220px;
 }
 #body.home div.footer div ul li a {
-	background: url(TDKELL.github.io/images/icons.png) no-repeat;
+	background: url(../images/icons.png) no-repeat;   /* THIS IS THE REFERENCE FOR THE ICONS */
 	display: block;
 	height: 44px;
 	margin: 0 auto 22px;
