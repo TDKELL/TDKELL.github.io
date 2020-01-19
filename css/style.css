@@ -218,6 +218,7 @@ img {
 	margin: 0;
 	max-width: none;
 	overflow: hidden;
+	height: 357px; /* ADDED TO MAKE THE SECTION FIT THE IMAGE */
 	padding: 0;
 	width: 100%;
 }
@@ -244,7 +245,7 @@ img {
 	font-family: quicksand-bold-webfont;
 	font-size: 24px;
 	font-weight: normal;
-	height: 150px;
+	height: 150px;     /* HEIGHT OF THE STICKER */
 	line-height: 24px;
 	margin: 0;
 	padding: 52px 0 0;
@@ -252,7 +253,7 @@ img {
 	right: 130px;
 	text-align: center;
 	text-transform: uppercase;
-	top: 150px;
+	top: 150px; /* STICKER DISTANCE FROM THE TOP */
 	width: 156px;
 	z-index: 90;
 }
