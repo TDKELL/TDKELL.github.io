@@ -238,7 +238,7 @@ img {
 	position: relative;
 }
 #body.home div.header div a {
-	background: url(TDKELL.github.io/images/icons.png) no-repeat 0 -80px;   /* STICKER TEXT */
+	background: url(../images/icons.png) no-repeat 0 -80px;   /* STICKER TEXT */
 	color: #FFFFFF;
 	display: block;
 	font-family: quicksand-bold-webfont;
