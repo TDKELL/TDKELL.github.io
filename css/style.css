@@ -1093,7 +1093,7 @@ img {
 	width: 100%;
 }
 .footerimage {
-  width: 100%;
+  width: 100%;     /* footer image - makes it go all the way across the page */
   z-index: 0;
 }
 #footer {
