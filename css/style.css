@@ -276,16 +276,17 @@ img {
 	padding: 0 0 0 40px;
 	width: 560px;
 }
+@media screen and (max-width:1000px) {
+		#body.home div.body div img {
+		display: none;
+	}
+	}
 #body.home div.body div img {
-	float: left;
-	display: block;
-	left: 1000px;
-	width: auto;
-	height: auto;
-	max-width: 1000px;
-	max-height: 300px;
+		position: relative;
+	left: 800px;
 	top: -190px;
-	position: relative;
+	object-fit: scale-down;
+	height: 300px;
 }
 #body.home div.body div div h1 {
 	color: #7A6666;
