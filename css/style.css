@@ -278,9 +278,12 @@ img {
 }
 #body.home div.body div img {
 	float: left;
+	display: block;
 	left: 1000px;
-	height: 194px;
-	width: 290px;
+	width: auto;
+	height: auto;
+	max-width: 1000px;
+	max-height: 300px;
 	top: -190px;
 	position: relative;
 }
